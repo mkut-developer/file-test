@@ -1,0 +1,1 @@
+Swagger: http://{host}:8080/swagger-ui/index.html
